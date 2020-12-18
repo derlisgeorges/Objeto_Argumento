@@ -1,0 +1,4 @@
+C:\Users\dsgez\Desktop\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.csprojAssemblyReference.cache
+C:\Users\dsgez\Desktop\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.AssemblyInfoInputs.cache
+C:\Users\dsgez\Desktop\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.AssemblyInfo.cs
+C:\Users\dsgez\Desktop\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.csproj.CoreCompileInputs.cache
